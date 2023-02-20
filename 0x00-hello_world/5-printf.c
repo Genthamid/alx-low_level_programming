@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
- * main - it prints the out put with proper grammar, but the outcome is a piece of art,
+ * main - this printf in next line
  *
- * Return: 0 after compilation
+ * Return: 0 after the compilation
  */
-
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
