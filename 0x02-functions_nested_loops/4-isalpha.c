@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha - function that checjs alphabets
+ * _isalpha - function that checks alphabets
  *
  * @c: parameter to be checked
  *
