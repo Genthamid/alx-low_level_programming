@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * _isalpha - function that checks for alphabets
+ * _isalpha - function that checjs alphabets
  *
  * @c: parameter to be checked
  *
- * Return: 1 if it s an alphabet
+ * Return: 1 if it is alphabet
  * and 0 otherwise
  */
 
-int _isaplha(int c)
+int _isalpha(int c)
 {
 	if ((c >= 97 && c <= 122) || (c >= 65 && c <= 90))
 		return (1);
